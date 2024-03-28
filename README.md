@@ -1,16 +1,24 @@
-# adv_basics
+# Quiz App
 
-A new Flutter project.
+A Flutter project for creating a quiz app where users can answer questions and receive feedback on their performance.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Interactive Quiz**: Engage users with interactive quizzes.
+- **Real-time Feedback**: Provide immediate feedback on user responses.
+- **Scoring System**: Keep track of users' scores and performance.
+- **User-friendly Interface**: Intuitive design for seamless user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Watch the video](https://github.com/BhavikPindoriya/quiz_app/assets/154498968/3fbd886f-65d2-4c94-b368-e2fced133d35)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
